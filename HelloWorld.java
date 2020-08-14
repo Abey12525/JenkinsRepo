@@ -7,6 +7,6 @@ public class HelloWorld
         {
             System.out.println(i);
         }
-        System.out.println("For Loop Ended -  Jenkins execution");
+        System.out.println("For Loop Ended");
     }
 }
