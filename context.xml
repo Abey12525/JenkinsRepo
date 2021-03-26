@@ -16,6 +16,7 @@
   limitations under the License.
 
   NEW LINE TEST
+  MASTER CHANGE
 -->
 <Context antiResourceLocking="false" privileged="true" >
    <Valve className="org.apache.catalina.valves.RemoteAddrValve" allow=".*"/>
